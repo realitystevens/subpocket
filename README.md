@@ -1,3 +1,3 @@
 ## Subpocket
 
-Waitlist Landing Page (v0.1.0)
+Waitlist Landing Page (v0.2.0)
