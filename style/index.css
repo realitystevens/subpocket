@@ -81,6 +81,13 @@ header {
     font-weight: 700;
     color: var(--text-color);
     margin-right: 10px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.logo img {
+    width: 100px;
 }
 
 .__header_wrapper span {
