@@ -1,11 +1,6 @@
 /* Policy Pages Specific Styles (Privacy & Terms) */
 
 /* Header adjustments */
-.header .logo {
-    color: var(--primary-color);
-    font-weight: 700;
-    font-size: 20px;
-}
 
 .header-nav {
     display: flex;

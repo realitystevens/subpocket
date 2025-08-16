@@ -77,7 +77,6 @@ header {
 }
 
 .logo {
-    font-size: 20px;
     font-weight: 700;
     color: var(--text-color);
     margin-right: 10px;
